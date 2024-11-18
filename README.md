@@ -96,7 +96,7 @@ You can try the following command also:
 
 <img width="935" alt="azure7" src="https://github.com/user-attachments/assets/a53a5c99-409e-4d5b-8fdb-f0b48cd11760">
 
-**STEP 5: Connect to Spark web interface by this link: http://<your-vm-ip-adress>:9090/**
+**STEP 5: Connect to Spark web interface by this link: http://your-vm-ip-adress:9090/**
 
 Explore running jobs:
 
@@ -119,7 +119,7 @@ Explore running jobs:
 
 - *visa_number_in_japan_year_map.html:* Yearly trends in visa applications.
   
- <img width="956" alt="image" src="https://github.com/user-attachments/assets/3b78adc9-95de-4500-a73f-a493e1e8a58c">
+  <img width="956" alt="image" src="https://github.com/user-attachments/assets/3b78adc9-95de-4500-a73f-a493e1e8a58c">
 
 
 ## Future Enhancements
