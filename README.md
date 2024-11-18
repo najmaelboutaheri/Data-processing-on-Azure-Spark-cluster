@@ -17,7 +17,8 @@ The system processes input data using Apache Spark and outputs results in variou
 - **Output:**  
   Results are exported as visualizations, logs, or files.  
 
-![Flowchart (2)](https://github.com/user-attachments/assets/f1957e49-2f8c-430a-965a-2147874023d1)
+  ![Flowchart (3)](https://github.com/user-attachments/assets/c55eb18e-3ac7-4277-bd9c-ff5156430a12)
+
 
 ## Repository Structure  
 
