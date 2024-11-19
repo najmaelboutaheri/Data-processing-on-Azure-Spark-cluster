@@ -105,6 +105,10 @@ Explore running jobs:
 
  <img width="938" alt="azure4" src="https://github.com/user-attachments/assets/07bb1e3a-8db1-406c-ac77-286335e614d1">
 
+**STEP 6: You can also download Output Data to local with the following command:**
+
+```/bin/bash download_files.sh```
+
 ## Usage
 
 - **Input:** Place input files in the src/input directory.
